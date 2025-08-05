@@ -1,0 +1,27 @@
+{
+  "additional_special_tokens": [
+    "[BIB_REF]",
+    "[/BIB_REF]",
+    "[FIG_REF]",
+    "[/FIG_REF]",
+    "[TABLE_REF]",
+    "[/TABLE_REF]",
+    "[FORMULA]",
+    "[/FORMULA]"
+  ],
+  "bos_token": {
+    "content": "<|begin_of_text|>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  },
+  "eos_token": {
+    "content": "<|end_of_text|>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  },
+  "pad_token": "<|end_of_text|>"
+}
