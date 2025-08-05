@@ -1,0 +1,8 @@
+flask
+flask-cors
+transformers
+torch
+peft
+accelerate
+bitsandbytes
+requests
